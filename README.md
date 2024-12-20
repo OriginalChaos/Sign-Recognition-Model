@@ -45,7 +45,7 @@ Make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-[git clone https://github.com/OriginalChaos/Sign-Recognition-Model.git
+git clone https://github.com/OriginalChaos/Sign-Recognition-Model.git
 ```
 
 ### Setting up the Backend
